@@ -203,8 +203,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sandeep**  
 Frontend Developer Intern – Quantum Polymers
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/sandeep-kumar-161948272/)
-- 🐱 GitHub: (https://github.com/sandeepgithu)
+- 💼 LinkedIn: https://www.linkedin.com/in/sandeep-kumar-161948272/
+- 🐱 GitHub: https://github.com/sandeepgithu
 - 📧 Email: singsandeep971@gmail.com
 
 ---
